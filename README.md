@@ -308,13 +308,12 @@ Recommended screenshots:
 Example Markdown:
 
 ```markdown
-![Executive Overview](screenshots/executive_overview.png)
-![Warehouse Performance](screenshots/warehouse_performance.png)
-![Order & Fulfillment Analysis](screenshots/order_fulfillment.png)
-![Inventory & Product Analytics](screenshots/inventory_product.png)
-![Picking & Employee Productivity](screenshots/picking_employee.png)
-![Shipping, Returns & Customer Experience](screenshots/shipping_returns.png)
-```
+[Executive Overview](screenshots/executive_overview.png)
+[Warehouse Performance](screenshots/warehouse_performance.png)
+[Order & Fulfillment Analysis](screenshots/order_fulfillment.png)
+[Inventory & Product Analytics](screenshots/inventory_product.png)
+[Picking & Employee Productivity](screenshots/picking_employee.png)
+[Shipping, Returns & Customer Experience](screenshots/shipping_returns.png)
 
 ## 13. How to Run the Project
 
